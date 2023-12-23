@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DynamicalSystems = "524d30e7-1f8a-489f-98dd-7b68cdbbb39b"
